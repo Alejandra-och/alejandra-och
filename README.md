@@ -22,8 +22,8 @@ Soy una profesional con una sólida base en **Finanzas y Comercio Internacional*
 ## ✨ Proyectos Destacados 
 
 * [**`forecast-trade-impact`**]: Análisis predictivo usando series de tiempo (Python) para modelar el impacto de las tarifas de comercio en el margen de beneficio. *[Etiquetas: #Python #TimeSeries #Finance]*
-* [**`global-logistics-dashboard`**]: Creación de un dashboard interactivo (Power BI/Tableau) para visualizar métricas clave de la cadena de suministro (costos de envío, tiempos de entrega, riesgo geográfico). *[Etiquetas: #DataViz #Logistics #SQL]*
-* [**`customer-acquisition-analysis`**]: Estudio de cohortes y análisis de costos de adquisición de clientes (CAC) integrando datos de Marketing Digital con métricas financieras. *[Etiquetas: #Marketing #Finance #Pandas]*
+* [**`global-logistics-dashboard`**]: Creación de un dashboard interactivo (Power BI/Tableau) para visualizar métricas clave de la cadena de suministro (costos de envío, tiempos de entrega, riesgo geográfico). *[ #Logistics #SQL]*
+* [**`customer-acquisition-analysis`**]: Estudio de cohortes y análisis de costos de adquisición de clientes (CAC) integrando datos de Marketing Digital con métricas financieras. *[ #Marketing #Finance #Pandas]*
 
 ---
 
